@@ -1,6 +1,8 @@
 # Drug-Recommendation-Model-for-Disease-Treatment
 Developed a predictive model to recommend the most appropriate drug (Drug A, Drug B, Drug C, Drug X, or Drug Y) for patients suffering from a specific disease based on their medical characteristics.
+
 Abstract
+
 Data has been collected on a group of patients, who suffered from the same disease. During their course of treatment, each patient responded to one of 5 drugs, Drug A, Drug B, Drug C, Drug X, and Drug Y. It is then possible to build a model to find out which drug might be appropriate for a future patient with the same disease. The characteristics of this data set are age, sex, blood pressure, cholesterol of the patients, Sodium to potassium ratio in blood of the patient and the target is the drug to which each of these patients responded.
 
 It is a sample of a multiclass classifier, and you can use the training part of the dataset to build a decision tree and then use it to predict the class of an unknown patient or to prescribe a drug to a new patient.
